@@ -1,0 +1,25 @@
+{
+  "dependencies": {
+    "cypress": "^14.2.0"
+  },
+  "name": "project_test_default",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "cypress": "cypress",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/engfrontfelipe/projectTestCypress--Default.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/engfrontfelipe/projectTestCypress--Default/issues"
+  },
+  "homepage": "https://github.com/engfrontfelipe/projectTestCypress--Default#readme",
+  "description": ""
+}
